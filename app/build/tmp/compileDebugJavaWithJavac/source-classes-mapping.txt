@@ -1,0 +1,11 @@
+com/acedillo/example/room/UserRoomDatabase_Impl.java
+ com.acedillo.example.room.UserRoomDatabase_Impl
+ com.acedillo.example.room.UserRoomDatabase_Impl$1
+com/acedillo/example/room/UserDao_Impl.java
+ com.acedillo.example.room.UserDao_Impl
+ com.acedillo.example.room.UserDao_Impl$1
+ com.acedillo.example.room.UserDao_Impl$2
+ com.acedillo.example.room.UserDao_Impl$3
+ com.acedillo.example.room.UserDao_Impl$4
+com/acedillo/example/BuildConfig.java
+ com.acedillo.example.BuildConfig

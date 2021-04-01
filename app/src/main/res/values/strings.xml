@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="home_tab_text">Home</string>
+    <string name="search_tab_text">Search</string>
+    <string name="name">Name</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">register</string>
+    <string name="email">E-mail</string>
+    <string name="forgot_password">Forgot password?</string>
+
+    <string name="morning">Good Morning, %s</string>
+    <string name="afternoon">Good Afternoon, %s</string>
+    <string name="evening">Good Evening, %s</string>
+
+
+
+
+
+</resources>
